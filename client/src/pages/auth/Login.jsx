@@ -52,12 +52,6 @@ export default function Login() {
           </Link>
         </div>
 
-        <div className="mt-6 rounded-2xl bg-slate-50 p-4 text-xs text-slate-600">
-          Seeded accounts (after <b>npm run seed</b>):<br />
-          <b>admin@luxurystay.com</b> / Password123<br />
-          <b>manager@luxurystay.com</b> / Password123<br />
-          <b>staff@luxurystay.com</b> / Password123
-        </div>
       </motion.div>
     </AuthLayout>
   );

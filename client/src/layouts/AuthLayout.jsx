@@ -7,7 +7,6 @@ export default function AuthLayout({ children }) {
         <div className="hidden md:block">
           <div className="rounded-3xl bg-slate-900 p-10 text-white">
             <div className="font-poppins text-3xl font-bold">LuxuryStay</div>
-            <div className="mt-2 text-sm opacity-90">Airbnb-style booking + Stripe-style dashboards.</div>
             <div className="mt-6 text-xs opacity-80">
               Secure • Role-based • Analytics • Logs • Settings • Payments (Simulated)
             </div>

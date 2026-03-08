@@ -6,7 +6,8 @@ export default function StaffDashboard() {
     <Card className="p-6">
       <div className="font-poppins text-lg font-bold">Staff Dashboard</div>
       <div className="mt-2 text-sm text-slate-600">
-        You can check-in and check-out guests from the bookings page.
+        You can check-in and check-out guests from the bookings page, and update room service checklists
+        from the rooms page.
       </div>
     </Card>
   );
